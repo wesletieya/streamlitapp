@@ -3,7 +3,7 @@ import numpy as np
 import streamlit as st
 import pickle
 import pandas as pd
-import sklearn
+pip install scikit-learn
 from sklearn.preprocessing import LabelEncoder, StandardScaler
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.model_selection import GridSearchCV
